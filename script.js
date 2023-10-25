@@ -1,5 +1,4 @@
-// Your code here.
-onst slider = document.querySelector('.items');
+const slider = document.querySelector('.items');
 let isDown = false;
 let startX;
 let scrollLeft;
